@@ -22,7 +22,7 @@ Applications of generative model:
 * Image conversion
 
 ### Generative model family
-![](mac_blogs_gm_01.png)
+![](img/mac_blogs_gm_01.png)
 This diagram covers the basic method of generative models. We could group the models based on if we need to define the probability density function:
 
 * Explicit density models: VAE lower bound, Markov chain Monte Carlo (MCMC) methods
